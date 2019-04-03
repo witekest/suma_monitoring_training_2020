@@ -2,8 +2,8 @@
 // - https://github.com/hakimel/reveal.js#configuration
 // - https://github.com/hakimel/reveal.js#dependencies
 Reveal.initialize({
-    // If you change these, make sure $aspect-ratio in the .scss file
-    // is updated accordingly:
+    // If you change these, make sure $slide-width and $slide-height in
+    // css/_variables.scss are also updated accordingly:
     width: 1600,
     height: 900,
 
