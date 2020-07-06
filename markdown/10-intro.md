@@ -1,4 +1,4 @@
-<!-- .slide: data-state="cover" id="cover-page" data-timing="20" data-menu-title="Cover slide" -->
+<!-- .slide: data-state="cover" id="template-cover-page" data-timing="20" data-menu-title="Cover slide" -->
 <div class="title">
     <h1>SUSE<sub>&reg;</sub> Presentation</h1>
     <h2>Guidelines and Template</h2>
@@ -7,7 +7,7 @@
 <div class="date-location">March 20, 2020, CITY NAME</div>
 
 
-<!-- .slide: data-state="normal" id="agenda" data-menu-title="Agenda" -->
+<!-- .slide: data-state="normal" id="template-agenda" data-menu-title="Agenda" -->
 ## Contents / agenda
 
 <h3>
