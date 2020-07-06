@@ -1,0 +1,58 @@
+// Styling for the contact page
+
+.contact .reveal {
+    .slides {
+        background:
+            url(../images/SUSE/SUSE.png)
+               95% 95%              //  x/y positions
+             / 5% 3%              //  x/y sizes
+               no-repeat,
+            url(../images/SUSE/contact-dot-line.png)
+               0% 100%
+             / 88% 30%
+                no-repeat;
+
+        .contacts {
+            display: flex;
+            flex-flow: row;
+            justify-content: left;
+            align-items: top;
+            height: 88%;
+            width: 92%;
+        }
+
+        .contact {
+            width: 22%;
+            flex-basis: 25%;
+            float: left;
+            height: 60%;
+            padding: 0.5em;
+
+            color: $pine;
+
+            figure {
+                height: 85%;
+                width: 100%;
+                border-radius: 15%;
+                img {
+                    width: 100%;
+                    height: 100%;
+                }
+            }
+
+            .name {
+                color: $jungle;
+                font-size: 0.8em;
+                margin-bottom: 1em;
+            }
+
+            .job {
+                font-size: 0.8em;
+            }
+
+            .email, .phone {
+                font-size: 0.6em;
+            }
+        }
+    }
+}

@@ -1,3 +1,21 @@
+/// primary colors
+$pine:                rgb( 12,  50,  44);
+$jungle:              rgb( 48, 186, 120);
+$fog:                 rgb(242, 242, 242);
+$coral:               rgb(255, 106,  82);
+
+/// Secondary colors
+$sea-foam:            rgb(122, 212, 170);
+$salmon:              rgb(255, 142, 119);
+
+/// Tertiary colors
+$sea-foam-60:         lighten($sea-foam, 60%);
+$sea-foam-20:         lighten($sea-foam, 20%);
+
+$fog-200:             #E6E6E6;
+$fog-300:             #D7D7D7;
+
+/// Old colors
 $SUSE-green:          rgb(  2, 211,  95);
 
 $dark-neutral:        rgb(  0,   0,   0);
@@ -24,61 +42,3 @@ $bright-magenta:      rgb(222,   0, 128);
 $light-magenta:       rgb(247, 163, 213);
 $dark-purple:         rgb( 20,  25, 105);
 $bright-purple:       rgb(132,  23, 129);
-
-////////////////////////////////////////////////////////////////////
-
-.bg-SUSE-green           { background-color: $SUSE-green !important;          }
-
-.bg-dark-neutral         { background-color: $dark-neutral !important;        }
-.bg-medium-dark-neutral  { background-color: $medium-dark-neutral !important; }
-.bg-medium-neutral       { background-color: $medium-neutral !important;      }
-.bg-light-neutral        { background-color: $light-neutral !important;       }
-.bg-tint-neutral         { background-color: $tint-neutral !important;        }
-
-.bg-bright-blue          { background-color: $bright-blue !important;         }
-.bg-dark-blue            { background-color: $dark-blue !important;           }
-.bg-bright-royal         { background-color: $bright-royal !important;        }
-.bg-light-blue           { background-color: $light-blue !important;          }
-
-.bg-bright-green         { background-color: $bright-green !important;        }
-.bg-medium-green         { background-color: $medium-green !important;        }
-
-.bg-dark-orange          { background-color: $dark-orange !important;         }
-.bg-medium-orange        { background-color: $medium-orange !important;       }
-.bg-light-yellow         { background-color: $light-yellow !important;        }
-
-.bg-bright-teal          { background-color: $bright-teal !important;         }
-
-.bg-bright-magenta       { background-color: $bright-magenta !important;      }
-.bg-light-magenta        { background-color: $light-magenta !important;       }
-.bg-bright-purple        { background-color: $bright-purple !important;       }
-.bg-dark-purple          { background-color: $dark-purple !important;         }
-
-////////////////////////////////////////////////////////////////////
-
-.fg-SUSE-green           { color: $SUSE-green !important;          }
-
-.fg-dark-neutral         { color: $dark-neutral !important;        }
-.fg-medium-dark-neutral  { color: $medium-dark-neutral !important; }
-.fg-medium-neutral       { color: $medium-neutral !important;      }
-.fg-light-neutral        { color: $light-neutral !important;       }
-.fg-tint-neutral         { color: $tint-neutral !important;        }
-
-.fg-bright-blue          { color: $bright-blue !important;         }
-.fg-dark-blue            { color: $dark-blue !important;           }
-.fg-bright-royal         { color: $bright-royal !important;        }
-.fg-light-blue           { color: $light-blue !important;          }
-
-.fg-bright-green         { color: $bright-green !important;        }
-.fg-medium-green         { color: $medium-green !important;        }
-
-.fg-dark-orange          { color: $dark-orange !important;         }
-.fg-medium-orange        { color: $medium-orange !important;       }
-.fg-light-yellow         { color: $light-yellow !important;        }
-
-.fg-bright-teal          { color: $bright-teal !important;         }
-
-.fg-bright-magenta       { color: $bright-magenta !important;      }
-.fg-light-magenta        { color: $light-magenta !important;       }
-.fg-bright-purple        { color: $bright-purple !important;       }
-.fg-dark-purple          { color: $dark-purple !important;         }
