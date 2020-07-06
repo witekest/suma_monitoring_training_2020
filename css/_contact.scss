@@ -15,7 +15,7 @@
         .contacts {
             display: flex;
             flex-flow: row;
-            justify-content: center;
+            justify-content: left;
             align-items: top;
             height: 88%;
             width: 92%;
@@ -24,7 +24,6 @@
         .contact {
             width: 22%;
             flex-basis: 25%;
-            flex-grow: 1;
             float: left;
             height: 60%;
             padding: 0.5em;
