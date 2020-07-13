@@ -1,21 +1,39 @@
-<!-- .slide: data-state="cover" id="template-cover-page" data-timing="20" data-menu-title="Cover slide" -->
+<!-- .slide: data-state="cover" id="cover-page" data-timing="20" -->
+<div class="date-location">July 14, 2020</div>
+
 <div class="title">
-    <h1>SUSE<sub>&reg;</sub> Presentation</h1>
-    <h2>Guidelines and Template</h2>
+    <h1>Monitoring in SUMA 4.1</h1>
+    <h2>Update</h2>
 </div>
 
-<div class="date-location">March 20, 2020, CITY NAME</div>
+
+<!-- .slide: data-state="normal contact" id="contact" data-timing="20s" data-menu-title="Contact" -->
+## About me
+
+<div class="breadcrumbs">Introduction</div>
+
+<div class="contacts">
+  <div class="contact">
+    <div class="name">Witek Bedyk</div>
+    <div class="job">Monitoring and Logging Developer</div>
+    <div class="email">witold.bedyk@suse.com</div>
+  </div>
+</div>
 
 
-<!-- .slide: data-state="normal" id="template-agenda" data-menu-title="Agenda" -->
-## Contents / agenda
+<!-- .slide: data-state="normal toc" id="agenda" data-timing="20s" data-menu-title="Agenda" -->
+## Agenda
 
-<h3>
-Welcome to the [`reveal.js`](https://github.com/hakimel/reveal.js/)
-version of the guidelines and template for SUSE presentations.
-</h3>
+<div class="breadcrumbs">Introduction</div>
 
-It contains the following slides (you can also press `m` at any
-time to reveal a navigation menu):
+1. Introduction on Prometheus and Grafana
+> Engineers' friends
 
-*   Presentation template slides
+1. Automated configuration
+> formulas, service discovery
+
+1. Clusters
+> federation, CaaSP
+
+1. Exporters reverse proxy
+> preview
