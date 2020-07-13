@@ -13,13 +13,13 @@
 
 <!-- .element class="col1" -->
 
-![SUMA Architecture](../images/suma_monitoring.svg)
+![SUMA Architecture](images/suma_monitoring.svg)
 
 <!-- .element class="col1" -->
 
 
 <!-- .slide: data-state="normal" class="full-screen" id="prom_formula" data-timing="20s" data-menu-title="Prometheus formula" -->
-<img src="../images/prometheus_formula.png">
+<img src="images/prometheus_formula.png">
 
 
 <!-- .slide: data-state="normal" id="prom_config" data-menu-title="Prometheus configuration" -->
@@ -65,7 +65,7 @@ scrape_configs:
 
 <!-- .element class="col1" -->
 
-<img src="../images/suma_monitoring.svg" width="500">
+<img src="images/suma_monitoring.svg" width="500">
 
 <!-- .element class="col2" -->
 
@@ -93,10 +93,10 @@ scrape_configs:
 
 
 <!-- .slide: data-state="normal" class="full-screen" id="grafana_formula" data-timing="20s" data-menu-title="Grafana formula" -->
-<img src="../images/grafana_formula.png">
+<img src="images/grafana_formula.png">
 
 
 <!-- .slide: data-state="blank-slide" class="full-screen" id="grafana_dashboard" data-menu-title="Grafana dashboard example" data-timing="10s" -->
 <a title="Grafana dashboard example">
-    <img src="../images/minion_dashboard.png"/>
+    <img src="images/minion_dashboard.png"/>
 </a>

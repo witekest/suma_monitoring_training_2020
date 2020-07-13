@@ -1,4 +1,4 @@
-<!-- .slide: data-state="divider" id="proxy-cover" data-timing="20s" data-menu-title="Reverse Proxy" -->
+images/<!-- .slide: data-state="divider" id="proxy-cover" data-timing="20s" data-menu-title="Reverse Proxy" -->
 # Exporters Reverse Proxy (preview)
 
 
@@ -12,7 +12,7 @@
 
 <!-- .element class="col1" -->
 
-![Firewall](../images/firewall.png)
+![Firewall](images/firewall.png)
 
 <!-- .element class="col2" -->
 
@@ -29,7 +29,7 @@
 
 
 <!-- .slide: data-state="normal" class="full-screen" id="proxy-formula" data-timing="20s" data-menu-title="Exporters Formula" -->
-<img src="../images/exporters_formula.png">
+<img src="images/exporters_formula.png">
 
 
 <!-- .slide: data-state="normal" id="proxy-formula-2" data-timing="20s" data-menu-title="Exporters Formula" -->

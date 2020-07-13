@@ -13,7 +13,7 @@
 
 <!-- .element class="col1" -->
 
-![Federation](../images/federation.png)
+![Federation](images/federation.png)
 
 <!-- .element class="col2" -->
 
@@ -23,7 +23,7 @@
 
 <div class="breadcrumbs">Federation</div>
 
-![Federation setup](../images/federation_formula.png)
+![Federation setup](images/federation_formula.png)
 
 
 <!-- .slide: data-state="normal" id="federation_config" data-menu-title="Federation configuration" -->
@@ -58,10 +58,10 @@
 
 
 <!-- .slide: data-state="normal" class="full-screen" id="caasp_grafana" data-timing="20s" data-menu-title="CaaSP dashboards" -->
-<img src="../images/caasp_grafana.png">
+<img src="images/caasp_grafana.png">
 
 
 <!-- .slide: data-state="blank-slide" class="full-screen" id="caasp_cluster" data-menu-title="Grafana dashboard example" data-timing="10s" -->
 <a title="CaaSP Cluster Dashboard">
-    <img src="../images/CaaSP_cluster.png"/>
+    <img src="images/CaaSP_cluster.png"/>
 </a>
