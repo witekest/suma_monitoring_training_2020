@@ -1,4 +1,4 @@
-images/<!-- .slide: data-state="divider" id="proxy-cover" data-timing="20s" data-menu-title="Reverse Proxy" -->
+<!-- .slide: data-state="divider" id="proxy-cover" data-timing="20s" data-menu-title="Reverse Proxy" -->
 # Exporters Reverse Proxy (preview)
 
 
