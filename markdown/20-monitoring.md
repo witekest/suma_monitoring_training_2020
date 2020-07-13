@@ -45,7 +45,7 @@
 
 <!-- .element class="col1-large" -->
 
-![Image in column two](../images/Prometheus_software_logo.svg)
+![Image in column two](images/Prometheus_software_logo.svg)
 
 <!-- .element class="col2-small" -->
 
@@ -61,7 +61,7 @@
 
 <!-- .element class="col1-large" -->
 
-![Image in column two](../images/Grafana_logo.svg)
+![Image in column two](images/Grafana_logo.svg)
 
 <!-- .element class="col2-small" -->
 
@@ -71,4 +71,4 @@
 
   <div class="breadcrumbs">Introduction on Prometheus and Grafana</div>
 
-  <img src="../images/suma_monitoring.svg" width="750">
+  <img src="images/suma_monitoring.svg" width="750">
