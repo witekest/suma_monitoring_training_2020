@@ -6,6 +6,7 @@
 * Matei Albu
 * Marcelo Chiaradia
 * QA Team
+* Cedric Bosdonnat
 
 
 <!-- .slide: data-state="subchapter" data-menu-title="Q & A" id="Q-and-A" -->
